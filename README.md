@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```Java
-public void Joxan {
+```java
+import java.util.ArrayList;
+import java.util.Arrays;
+public class Joxan {
     int age = 19;
-    String pronouns = "he / him"
-    ArrayList<String> code = ["Python", "Java", "C++", "SQL"]
-    ArrayList<String> currentlyLearning = ["HTML", "CSS", "Javascript"]
-    ArrayList<String> tools = ["Docker", "Flask", "Krita"]
-    ArrayList<String> architectures = ["MVC", "N-Layers", "Microservices"]
+    String pronouns = "he / him";
+    ArrayList<String> code = new ArrayList<>(Arrays.asList("Python", "Java", "C++", "SQL"));
+    ArrayList<String> currentlyLearning = new ArrayList<>(Arrays.asList("HTML", "CSS", "Javascript"));
+    ArrayList<String> tools = new ArrayList<>(Arrays.asList("Docker", "Flask", "Krita"));
+    ArrayList<String> architectures = new ArrayList<>(Arrays.asList("MVC", "N-Layers", "Microservices"));
+    ;
 }
 ```
