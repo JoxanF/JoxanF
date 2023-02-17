@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Joxan Fuertes 👋
+
+<br>
+
+Software Enginner Student at [Instituto Tecnológico de Costa Rica](https://www.tec.ac.cr/)
+
+<br>
 
 <!--
 **JoxanF/JoxanF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```Java
+public void Joxan {
+    int age = 19;
+    String pronouns = "he / him"
+    ArrayList<String> code = ["Python", "Java", "C++", "SQL"]
+    ArrayList<String> currentlyLearning = ["HTML", "CSS", "Javascript"]
+    ArrayList<String> tools = ["Docker", "Flask", "Krita"]
+    ArrayList<String> architectures = ["MVC", "N-Layers", "Microservices"]
+}
+```
