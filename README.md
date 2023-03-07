@@ -28,7 +28,7 @@ public class Joxan {
     String pronouns = "he / him";
     ArrayList<String> code = new ArrayList<>(Arrays.asList("Python", "Java", "C++", "SQL"));
     ArrayList<String> currentlyLearning = new ArrayList<>(Arrays.asList("HTML", "CSS", "Javascript"));
-    ArrayList<String> tools = new ArrayList<>(Arrays.asList("Docker", "Flask", "Krita"));
+    ArrayList<String> tools = new ArrayList<>(Arrays.asList("Flask", "Krita"));
     ArrayList<String> architectures = new ArrayList<>(Arrays.asList("MVC", "N-Layers", "Microservices"));
     ;
 }
